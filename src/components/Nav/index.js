@@ -8,7 +8,7 @@ function Index(props) {
         <main>
         <nav className="navbar navbar-dark navbar-expand-lg bg-dark ">
             <div className="container">
-                <Link variant="outline-*" className="navbar-brand logo" to="/">Training</Link>
+                <Link variant="outline-*" className="navbar-brand logo" to="/">Server Party Splitting</Link>
                 <div id="navbarNav">
                 <ul id="links" className="nav  ml-auto">
                     <Link variant="outline-*" className="nav-link" to="/">Home</Link>
